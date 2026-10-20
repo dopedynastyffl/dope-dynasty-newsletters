@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-05",
+  "latest": "2026-week-06",
   "editions": [
+    {
+      "season": 2026,
+      "week": 6,
+      "key": "2026-week-06",
+      "html": "2026-week-06.html",
+      "pdf": "2026-week-06.pdf",
+      "title": "DOPE Dynasty | Week 6 \u2014 45.18 points. Zero mercy."
+    },
     {
       "season": 2026,
       "week": 5,

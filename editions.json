@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-06",
+  "latest": "2026-week-07",
   "editions": [
+    {
+      "season": 2026,
+      "week": 7,
+      "key": "2026-week-07",
+      "html": "2026-week-07.html",
+      "pdf": "2026-week-07.pdf",
+      "title": "DOPE Dynasty | Week 7 \u2014 99.90 points. The big gap."
+    },
     {
       "season": 2026,
       "week": 6,

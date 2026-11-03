@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-07",
+  "latest": "2026-week-08",
   "editions": [
+    {
+      "season": 2026,
+      "week": 8,
+      "key": "2026-week-08",
+      "html": "2026-week-08.html",
+      "pdf": "2026-week-08.pdf",
+      "title": "DOPE Dynasty | Week 8 \u2014 53.22 points. No photo finish."
+    },
     {
       "season": 2026,
       "week": 7,
@@ -15,7 +23,7 @@
       "key": "2026-week-06",
       "html": "2026-week-06.html",
       "pdf": "2026-week-06.pdf",
-      "title": "DOPE Dynasty | Week 6 \u2014 45.18 points. Winning runs meet their limits."
+      "title": "DOPE Dynasty | Week 6 \u2014 45.18 points. A clear winner."
     },
     {
       "season": 2026,

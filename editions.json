@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-08",
+  "latest": "2026-week-09",
   "editions": [
+    {
+      "season": 2026,
+      "week": 9,
+      "key": "2026-week-09",
+      "html": "2026-week-09.html",
+      "pdf": "2026-week-09.pdf",
+      "title": "DOPE Dynasty | Week 9 \u2014 77.90 points. Room to spare."
+    },
     {
       "season": 2026,
       "week": 8,

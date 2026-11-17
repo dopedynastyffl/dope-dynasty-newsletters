@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-09",
+  "latest": "2026-week-10",
   "editions": [
+    {
+      "season": 2026,
+      "week": 10,
+      "key": "2026-week-10",
+      "html": "2026-week-10.html",
+      "pdf": "2026-week-10.pdf",
+      "title": "DOPE Dynasty | Week 10 \u2014 91.68 points. The widest divide."
+    },
     {
       "season": 2026,
       "week": 9,

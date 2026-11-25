@@ -1,6 +1,14 @@
 {
-  "latest": "2026-week-10",
+  "latest": "2026-week-11",
   "editions": [
+    {
+      "season": 2026,
+      "week": 11,
+      "key": "2026-week-11",
+      "html": "2026-week-11.html",
+      "pdf": "2026-week-11.pdf",
+      "title": "DOPE Dynasty | Week 11 \u2014 86.90 points. Well separated."
+    },
     {
       "season": 2026,
       "week": 10,
